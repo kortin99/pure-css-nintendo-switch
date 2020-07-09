@@ -4,7 +4,7 @@
 
 没有使用任何图标、logo，皆为css代码实现。大小、按键位置与实体机1:1。
 
-## 预览
+## Preview
 ![nintendo switch.jpg](https://ae02.alicdn.com/kf/H683fff946dae46c0b4be624f2d908eff6.png)
 
 ## Usage
